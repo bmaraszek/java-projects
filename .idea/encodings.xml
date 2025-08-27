@@ -9,8 +9,12 @@
     <file url="file://$PROJECT_DIR$/neetcode/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rate-limiter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rate-limiter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/in-memory-key-value-store/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/in-memory-key-value-store/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/lru-cache/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/lru-cache/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/object-pool/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/samples/object-pool/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/rate-limiter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/rate-limiter/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/samples/src/main/java" charset="UTF-8" />

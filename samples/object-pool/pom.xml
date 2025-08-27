@@ -7,16 +7,10 @@
         <groupId>pl.bmaraszek</groupId>
         <artifactId>java-projects</artifactId>
         <version>1.0-SNAPSHOT</version>
+        <relativePath>../../pom.xml</relativePath>
     </parent>
 
-    <artifactId>samples</artifactId>
-    <packaging>pom</packaging>
-
-    <modules>
-        <module>lru-cache</module>
-        <module>rate-limiter</module>
-        <module>in-memory-key-value-store</module>
-    </modules>
+    <artifactId>object-pool</artifactId>
 
     <properties>
         <maven.compiler.source>24</maven.compiler.source>
