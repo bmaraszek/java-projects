@@ -12,7 +12,6 @@
         <module>neetcode</module>
         <module>courses</module>
         <module>samples</module>
-        <module>samples/object-pool</module>
     </modules>
 
     <properties>

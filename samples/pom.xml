@@ -16,6 +16,7 @@
         <module>lru-cache</module>
         <module>rate-limiter</module>
         <module>in-memory-key-value-store</module>
+        <module>object-pool</module>
     </modules>
 
     <properties>
