@@ -20,7 +20,7 @@
 
 ## Samples
 
-- This contains sub-modules with mini-projects e.g.
+- This contains submodules with mini-projects e.g.
   - LRU Cache
   - Rate Limiter
   - Etc.
